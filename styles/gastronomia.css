@@ -1,0 +1,9 @@
+.tile:hover {
+  border-color:#ff3366;
+}
+.tile >button {
+    background-color: #ff3366;
+}
+.tag {
+    background-color: #ff3366;
+}
